@@ -1,4 +1,4 @@
 # new project
 
-this project is created in local system
-created by sunil kumar gupta
+This project is created in local system.
+Created by sunil kumar gupta.
